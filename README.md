@@ -26,6 +26,7 @@ Sou estudante de Ciência da Computação e apaixonada por tudo que eu possa des
             alt="css3" width="40" height="40" /> </a><a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons                    /devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
             <a href="https://bulma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/>
                <a href="https://mysql.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/mysql.svg" alt="mysql" width="40" height="40"/>
-                  <a href="https://firebase.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/firebase.svg" alt="firebase" width="40" height="40"/>
+                  <a href="https://firebase.google.com/?hl=pt-br" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/firebase.svg" alt="firebase" width="40" height="40"/>
+                     <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/docker.svg" alt="docker" width="40" height="40"/>
                
    
