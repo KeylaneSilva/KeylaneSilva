@@ -3,7 +3,7 @@ Sou estudante de Ciência da Computação e apaixonada por tudo que eu possa des
 
 <a href="https://github.com/KeylaneSilva">
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keylanesilva&show_icons=true&bg_color=22272E&icon_color=ADBAC7&                title_color=ADBAC7&text_color=ADBAC7&hide_border=false"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keylanesilva&show_icons=trueprsshow_icons=true&bg_color=22272E&icon_color=ADBAC7&                title_color=ADBAC7&text_color=ADBAC7&hide_border=false"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keylanesilva&layout=compact&langs_count=20&bg_color=22272E&          title_color=ADBAC7&text_color=ADBAC7&hide_border=false"/>
 </div>
      
