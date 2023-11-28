@@ -1,4 +1,4 @@
-## E aí galera, de boas?! Meu nome é Keylane
+## Oii, galera! Meu nome é Keylane
 <a href="https://portfolio-keylanesilva.netlify.app/" target="_blank">Visite o meu portfolio :blush:
 </a>
 
